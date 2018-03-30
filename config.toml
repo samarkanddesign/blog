@@ -4,5 +4,10 @@ languageCode = "en-gb"
 title = "Samarkand Design"
 
 [params]
+	shopUrl = "https://samarkanddesign.com"
+	description = "Blog"
 	hideHUGOSupport = true
 	cover = "images/lampshade1-2018.jpg"
+	logo = "images/samarkand-logo-250.svg"
+	twitterName = "samarkanddesign"
+	instagramName = "samarkanddesign"
