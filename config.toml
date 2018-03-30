@@ -1,3 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://blog.samarkanddesign.com/"
+theme = "casper"
+languageCode = "en-gb"
+title = "Samarkand Design"
+
+[params]
+	hideHUGOSupport = true
+	cover = "images/lampshade1-2018.jpg"
