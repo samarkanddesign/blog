@@ -11,3 +11,6 @@ title = "Samarkand Design"
 	logo = "images/samarkand-logo-250.svg"
 	twitterName = "samarkanddesign"
 	instagramName = "samarkanddesign"
+
+[permalinks]
+  	post = "/:year/:month/:title/"
