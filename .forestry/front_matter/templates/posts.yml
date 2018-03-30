@@ -1,4 +1,6 @@
 ---
+pages:
+- post/delhi-trade-fair.md
 hide_body: false
 fields:
 - name: title
