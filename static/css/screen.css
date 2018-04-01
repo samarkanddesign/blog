@@ -476,6 +476,9 @@ main.content a:hover, main.content a:focus {
     color: #bd6041;
 }
 
+.post-title a {
+    color: inherit!important;
+}
 /* ==========================================================================
    3. Utilities - These things get used a lot
    ========================================================================== */
