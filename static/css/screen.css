@@ -468,6 +468,13 @@ margin on the iframe, cause it breaks stuff. */
     margin: 0;
 }
 
+main.content a {
+    color: #d18f79;
+}
+
+main.content a:hover, main.content a:focus {
+    color: #bd6041;
+}
 
 /* ==========================================================================
    3. Utilities - These things get used a lot
@@ -962,11 +969,6 @@ body.nav-opened .menu-button .word {
     margin: 4rem auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
-    word-wrap: break-word;
-    -moz-hyphens: auto;
-    -ms-hyphens: auto;
-    -webkit-hyphens: auto;
-    hyphens: auto;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
@@ -1012,6 +1014,12 @@ body:not(.post-template) .post-title {
     color: #9EABB3;
 }
 
+.post-tag {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-right: .5rem;
+}
+
 .author-thumb {
     width: 24px;
     height: 24px;
@@ -1036,8 +1044,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-date {
-    display: inline-block;
-    margin-left: 8px;
+    display: block;
     padding-left: 12px;
     border-left: #d5dbde 1px solid;
     text-transform: uppercase;
@@ -1706,10 +1713,6 @@ body:not(.post-template) .post-title {
         margin-right: 16px;
         padding-bottom: 2rem;
         line-height: 1.65em;
-    }
-
-    .post-date {
-        display: none;
     }
 
     .post-template .post-header {

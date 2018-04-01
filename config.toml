@@ -14,3 +14,7 @@ title = "Samarkand Design"
 
 [permalinks]
   	post = "/:year/:month/:title/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
