@@ -15,13 +15,14 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: ''
+- type: text
+  name: author
+  label: Author
 - type: file
   label: Post featured image
   name: image
   config:
     maxSize: '2'
+- type: tag_list
+  name: tags
+  label: Tags
