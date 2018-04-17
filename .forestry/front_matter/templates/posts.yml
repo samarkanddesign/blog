@@ -1,7 +1,9 @@
 ---
 pages:
+- post/kicking-off-in-kerala.md
 - post/delhi-trade-fair.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
