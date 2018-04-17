@@ -1,6 +1,5 @@
 +++
 date = "2018-04-17T12:17:42+00:00"
-draft = true
 image = "/uploads/2018/04/17/IMG_5240.JPG"
 title = "KICKING OFF OUR SHOES IN KERALA"
 type = ""
