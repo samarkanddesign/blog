@@ -3,7 +3,7 @@ title: Delhi Trade Fair
 date: 2018-03-30 17:52:06 +0100
 image: "/uploads/2018/03/30/7fbaabe5-2547-44cd-baab-4a5642fadf0e.jpg"
 tags:
-- india
+- India
 author: Hilly Grumbar
 
 ---

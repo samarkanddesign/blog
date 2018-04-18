@@ -9,4 +9,5 @@ share = true	# set false to hide share buttons
 slug = ""
 tags = []
 title = "{{ replace .Name "-" " " | title }}"
+description = ""
 +++
