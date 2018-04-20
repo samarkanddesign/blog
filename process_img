@@ -1,0 +1,50 @@
+#!/usr/bin/env node
+
+const sharp = require('sharp')
+const { existsSync, statSync, writeFile } = require('fs')
+const img = process.argv[2]
+const maxDimension = parseInt(process.argv[3],10) || 1600
+
+if (!img) {
+  console.log('Image path must be provided')
+  process.exit(1)
+}
+
+if (!existsSync(img)) {
+  console.log('No image exists at that path')
+  process.exit(1)
+}
+
+console.log(`Resizing ${img} to max size of ${maxDimension}px`)
+
+const originalSize = statSync(img).size
+const imgInstance = sharp(img)
+
+imgInstance.metadata().then(meta => {
+  if (meta.height > maxDimension || meta.width > maxDimension) {
+    return doResize(imgInstance)
+  }
+  console.log('Image is already small enough, not resizing')
+})
+
+function doResize(imgInstance) {
+  imgInstance
+    .resize(maxDimension, maxDimension)
+    .max()
+    .withoutEnlargement()
+    .toBuffer()
+    .then(result => {
+      writeFile(img, result, err => {
+        if(err) {
+          console.log('Operation failed')
+          console.log(err)
+          process.exit(1)
+        }
+        console.log(`Done. Size ${tokB(originalSize)}kB -> ${tokB(result.byteLength)}kB`)
+      })
+    })
+}
+
+function tokB(bytes) {
+  return (bytes / 1e3).toFixed(2)
+}
