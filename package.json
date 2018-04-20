@@ -1,5 +1,8 @@
 {
-  "dependencies": {
+  "devDependencies": {
     "sharp": "^0.20.1"
+  },
+  "scripts": {
+    "process-images": "find -E ./static/uploads  -iregex \".*\\.(jpg|jpeg)\" -exec ./process_img.js {} \\;"
   }
 }

@@ -3,7 +3,7 @@
 const sharp = require('sharp')
 const fs = require('fs')
 const img = process.argv[2]
-const maxDimension = parseInt(process.argv[3],10) || 1500
+const maxDimension = parseInt(process.argv[3],10) || 1600
 
 if (!img) {
   console.log('Image path must be provided')
@@ -17,6 +17,8 @@ if (!fs.existsSync(img)) {
 
 console.log(`Resizing ${img} to max size of ${maxDimension}px`)
 
+const originalSize = fs.statSync(img).size
+
 sharp(img)
   .resize(maxDimension, maxDimension)
   .max()
@@ -29,6 +31,10 @@ sharp(img)
         console.log(err)
         process.exit(1)
       }
-      console.log('Done')
+      console.log(`Done. Size ${tokB(originalSize)}kB -> ${tokB(result.byteLength)}kB`)
     })
   })
+
+function tokB(bytes) {
+  return (bytes / 1e3).toFixed(2)
+}
