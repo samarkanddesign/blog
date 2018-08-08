@@ -8,7 +8,7 @@ image = ""
 share = true
 slug = ""
 tags = []
-title = "FIXTURES AND FITTINGS"
+title = "Fixtures and Fittings"
 
 +++
 We love talking about shape,  colour and pattern when it comes to lampshades but we do also need to do some housekeeping and help with some technical detail.
