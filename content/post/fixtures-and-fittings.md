@@ -6,7 +6,7 @@ description = ""
 image = ""
 share = true
 slug = ""
-tags = []
+tags = ["lampshade fitting", "shade carrier", "Duplex", "Clip-on ", "Gimble "]
 title = "Fixtures and Fittings"
 
 +++
