@@ -20,9 +20,9 @@ DUPLEX FITTINGS
 
 All our larger lampshades – 40cm or more come with a  duplex fitting which  is an 11cm ring near the top of the lampshade to be used with either a shade carrier for a table lamp or a  spider fitting if it is to be hung from the ceiling.
 
-The reason we do this is to allow flexibility depending on how high you want your shade to sit on your lamp.   It also makes it easier to clean your lampshade as it’s easily removed from the base.  We supply shade carriers in a variety of sizes from 3” to 10” [https://samarkanddesign.com/lampshade-carriers](https://samarkanddesign.com/lampshade-carriers "https://samarkanddesign.com/lampshade-carriers")
+The reason we do this is to allow flexibility depending on how high you want your shade to sit on your lamp.   It also makes it easier to clean your lampshade as it’s easily removed from the base.  [We supply shade carriers](https://samarkanddesign.com/shop/lampshade-carriers "Lampshade carriers in the Samarkand shop") in a variety of sizes from 3" to 10"
 
-You can also attach a ‘Spider’ fitting to the Duplex ring which will turn it into a ceiling or pendant shade (see below).  We do also supply these but it’s best if you contact us to discuss which type you want.
+You can also attach a "Spider" fitting to the Duplex ring which will turn it into a ceiling or pendant shade (see below).  We do also supply these but it’s best if you contact us to discuss which type you want.
 
 HARP AND FINIAL
 
@@ -30,7 +30,7 @@ HARP AND FINIAL
 
 In the US the most common form of lampshade fitting is the Harp and finial like this.  We can supply shades specially designed for this type with the spokes placed at the top of the shade with a small hole which goes onto the finial and is then screwed into place.
 
-Alternatively we can supply raised spiders such as the one below which you can attach to the Duplex fitting which effectively does the same thing.  If this is what you think you need please get in touch.
+Alternatively we can supply raised spiders such as the one below which you can attach to the Duplex fitting which effectively does the same thing.  If this is what you think you need please [get in touch](https://samarkanddesign.com/contact "Contact Samarkand Design").
 
 ![](/uploads/2018/08/08/IMG_0392.JPG)
 
