@@ -1,7 +1,6 @@
 ---
 label: Posts
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -26,5 +25,5 @@ fields:
   label: Tags
 pages:
 - content/post/fixtures-and-fittings.md
-- content/post/kicking-off-in-kerala.md
 - content/post/delhi-trade-fair.md
+- content/post/kicking-off-in-kerala.md
