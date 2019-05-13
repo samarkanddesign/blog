@@ -7,6 +7,7 @@ tags = ["Silk Sarees", " Lampshades", " Silk Saree Lampshades"]
 title = " Discover the stories behind our silk saree lampshades"
 
 +++
+
 In the pursuit of rich textiles and artisanal craftsmanship in the wonderful eclectic markets of India we discovered the most gorgeous vintages sarees and there and then were inspired to create our first collection of unique and beautiful hand pleated silk saree lampshades.
 
 Sarees have a very long standing tradition in India playing a practical role (being warm in winter and cool in summer) as well as a decorative one in women's attire.
@@ -29,6 +30,8 @@ Colour is added to the yellowy golden base through rich embroidery in the forms 
 
 Created in Patan, Gujarat, these sarees are hand-woven using a special type of silk called patota. Manufactured by the resist-dyeing process using the warp & weft technique, Patolas are double ikat sarees and are recognisable through their bold outlines, vibrant colours and charming geometrical patterns.
 
+![](/uploads/2019/05/13/IMG_2358.jpg)
+
 **Tussar Silk Saree**
 
 Discovered in the medieval times Tussar Silk is an exquisite natural gold thread made by the larvae of several species of silk moths.
@@ -47,6 +50,13 @@ The warp frame use to weave this fabric has about 60 holes, in which there are 2
 
 The face of Gujarati and Rajasthani craft Bandhani sarees are made using a traditional technique of tie dye in which the cloth is plucked with finger nails and tied into small or large dye resist circles depending on the pattern that is desired. Patterns will include a a variety of symbols including dots, waves, strips and squares and are most prominently yellow, red, green, blue and black.
 
+![](/uploads/2019/05/13/IMG_2364.jpg)
+
 **Batik Silk Saree**  
-Having been around for some 2000 years, Batik is truly an ancient form. Batik uses wax resist to create beautiful patterns on cloth. Batik is known for its use of floral motifs and an earthy palette, with an occasional pop of vibrant colour.**  
-![](/uploads/2019/05/13/IMG_2361.jpg "Batik saree")**
+Having been around for some 2000 years, Batik is truly an ancient form. Batik uses wax resist to create beautiful patterns on cloth and is known for its use of floral motifs and an earthy palette, with an occasional pop of vibrant colour.
+
+**  
+![](/uploads/2019/05/13/IMG_2361.jpg)**
+
+  
+References: wikepedia, [craftsvilla.com](http://craftsvilla.com/), [utsavpedia.com](http://utsavpedia.com/)
