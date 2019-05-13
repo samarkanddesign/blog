@@ -24,7 +24,7 @@ fields:
   name: tags
   label: Tags
 pages:
-- content/post/in-search-of-the-golden-thread.md
-- content/post/fixtures-and-fittings.md
 - content/post/delhi-trade-fair.md
 - content/post/kicking-off-in-kerala.md
+- content/post/fixtures-and-fittings.md
+- content/post/in-search-of-the-golden-thread.md
