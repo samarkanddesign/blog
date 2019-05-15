@@ -19,6 +19,8 @@ Chosen for their jewel-like patterns, colours and textures every saree has a sto
 
 A traditional hand woven saree from the state of Odisha in East India the Sambalpuri is a delicate weave of different techniques creating an Ikat pattern that has a curvilinear and feathery appearance. The threads are dyed before they are woven meaning its rich colour will never fade.
 
+![](/uploads/2019/05/13/IMG_2363.jpg)
+
 **Muga Silk Saree**
 
 Muga silk from Assam is made from the semi-cultivated silkworm named Antheraea assamensis. Muga silk is one of the rarest in the world and its golden colour and shine being its most unique feature.
@@ -54,7 +56,6 @@ The face of Gujarati and Rajasthani craft Bandhani sarees are made using a tradi
 **Batik Silk Saree**  
 Having been around for some 2000 years, Batik is truly an ancient form. Batik uses wax resist to create beautiful patterns on cloth and is known for its use of floral motifs and an earthy palette, with an occasional pop of vibrant colour.
 
-  
 ![](/uploads/2019/05/13/IMG_2361.jpg)
 
 References: wikepedia, [craftsvilla.com](http://craftsvilla.com/), [utsavpedia.com](http://utsavpedia.com/)
