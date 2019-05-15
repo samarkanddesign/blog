@@ -7,7 +7,6 @@ tags = ["Silk Sarees", " Lampshades", " Silk Saree Lampshades"]
 title = " Discover the stories behind our silk saree lampshades"
 
 +++
-
 In the pursuit of rich textiles and artisanal craftsmanship in the wonderful eclectic markets of India we discovered the most gorgeous vintages sarees and there and then were inspired to create our first collection of unique and beautiful hand pleated silk saree lampshades.
 
 Sarees have a very long standing tradition in India playing a practical role (being warm in winter and cool in summer) as well as a decorative one in women's attire.
@@ -55,8 +54,7 @@ The face of Gujarati and Rajasthani craft Bandhani sarees are made using a tradi
 **Batik Silk Saree**  
 Having been around for some 2000 years, Batik is truly an ancient form. Batik uses wax resist to create beautiful patterns on cloth and is known for its use of floral motifs and an earthy palette, with an occasional pop of vibrant colour.
 
-**  
-![](/uploads/2019/05/13/IMG_2361.jpg)**
-
   
+![](/uploads/2019/05/13/IMG_2361.jpg)
+
 References: wikepedia, [craftsvilla.com](http://craftsvilla.com/), [utsavpedia.com](http://utsavpedia.com/)
