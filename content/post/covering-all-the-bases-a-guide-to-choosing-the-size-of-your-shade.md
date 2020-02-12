@@ -1,7 +1,6 @@
 +++
 author = "Hilly"
 date = 2020-02-12T00:00:00Z
-draft = true
 image = "/uploads/2020/02/12/50cm on willie.jpg"
 tags = []
 title = "Covering All the Bases - A Guide to Choosing the Size of your Shade"
