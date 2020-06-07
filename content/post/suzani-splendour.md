@@ -2,7 +2,7 @@
 author = "Hilly"
 date = 2020-06-06T23:00:00Z
 draft = true
-image = "/uploads/2020/06/07/img_5120.JPG"
+image = "/uploads/2020/06/07/dsc_2549-1.jpg"
 tags = []
 title = "Suzani Splendour"
 
@@ -15,6 +15,8 @@ Suzanis originated in Tajikistan, Uzbekistan and Kazakhstan and other central As
 
 Originally the use for a suzani was in a yurt, as a wrapping for belongings but they also had a symbolic significance. They were made by brides and their mothers as part of a dowry. They represented the binding together of two families and used symbols of luck, long life, fertility and health. The floral designs are symbols of a paradise garden from the concept of the Garden of Eden.
 
+Here is an antique suzani from the Tashkent Museum 
+
 In every authentic Suzani, you will find a small deliberate fault of unfinished area, as a reminder that man is not without mistakes.
 
 There are four stitches used which create patterns that traditionally include sun and moon disks, flowers with the most popular being tulips, carnations and irises, creepers, leaves and vines, fruit (most often the pomegranate) and more unusually using fish and birds.
@@ -23,4 +25,4 @@ The colours used were made from vegetable dyes, which give a wonderful intensity
 
 Suzani are making a comeback but there is a threat to authentic suzani as machine made and synthetic copies are sold cheap making the true embroidered pieces seem expensive.
 
-You can use a suzani in many ways and they make a great addition to an interior. We have seen them used as a head boards, bedspreads, lavish tablecloths, or in upholstery and they really are worth the
+You can use a suzani in many ways and they make a great addition to an interior. We have seen them used as a head boards, bedspreads, lavish tablecloths, or in upholstery and they really are worth the investment.
