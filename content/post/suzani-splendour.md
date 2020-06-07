@@ -13,13 +13,25 @@ In simple terms, a suzani is a hand embroidered textile panel. The word suzani c
 
 Suzanis originated in Tajikistan, Uzbekistan and Kazakhstan and other central Asian countries. They usually have a cotton base (sometimes silk) which is embroidered in a cotton or silk thread. Quite often suzanis are made in two pieces and stitched together.
 
+One of the many Suzani shops in Samarkand - which we visited a couple of years ago.
+
+![](/uploads/2020/06/07/img_2705.jpg)
+
+And here is a Suzani I bought whilst there - and I'm afraid I kept it.
+
+![](/uploads/2020/06/07/img_5929.jpg)
+
 Originally the use for a suzani was in a yurt, as a wrapping for belongings but they also had a symbolic significance. They were made by brides and their mothers as part of a dowry. They represented the binding together of two families and used symbols of luck, long life, fertility and health. The floral designs are symbols of a paradise garden from the concept of the Garden of Eden.
 
-Here is an antique suzani from the Tashkent Museum 
+![](/uploads/2020/06/07/img_3160.JPG)
+
+Here is an antique suzani from the Tashkent Museum
 
 In every authentic Suzani, you will find a small deliberate fault of unfinished area, as a reminder that man is not without mistakes.
 
 There are four stitches used which create patterns that traditionally include sun and moon disks, flowers with the most popular being tulips, carnations and irises, creepers, leaves and vines, fruit (most often the pomegranate) and more unusually using fish and birds.
+
+![](/uploads/2020/06/07/img_3161.jpg)
 
 The colours used were made from vegetable dyes, which give a wonderful intensity and depth. Modern pieces should be easy to see as they use synthetic dye and are not as vibrant.
 
