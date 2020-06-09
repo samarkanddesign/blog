@@ -7,13 +7,13 @@ tags = []
 title = "Suzani Splendour"
 
 +++
-How can you not love a Suzani? Interior designers and home owners have loved using these in houses for years but what are they? In recent days I have enjoyed learning a bit more about them.
+How can you not love a Suzani? Interior designers and home owners have loved using these in houses for years but what are they? In recent months I have enjoyed learning a bit more about them.
 
 In simple terms, a suzani is a hand embroidered textile panel. The word suzani comes from a Persian word suzan, meaning needle.
 
 Suzanis originated in Tajikistan, Uzbekistan and Kazakhstan and other central Asian countries. They usually have a cotton base (sometimes silk) which is embroidered in a cotton or silk thread. Quite often suzanis are made in two pieces and stitched together.
 
-One of the many Suzani shops in Samarkand - which we visited a couple of years ago.
+One of the many Suzani shops in Samarkand, Uzbekistan - which we visited a couple of years ago.
 
 ![](/uploads/2020/06/07/img_2705.jpg)
 
@@ -38,3 +38,9 @@ The colours used were made from vegetable dyes, which give a wonderful intensity
 Suzani are making a comeback but there is a threat to authentic suzani as machine made and synthetic copies are sold cheap making the true embroidered pieces seem expensive.
 
 You can use a suzani in many ways and they make a great addition to an interior. We have seen them used as a head boards, bedspreads, lavish tablecloths, or in upholstery and they really are worth the investment.
+
+Here is a sofa which we covered in a beautiful old suzani from Afghanisthan.  This type was used to decorate the tent to welcome the groom's family at a wedding.
+
+![](/uploads/2020/06/07/img_5120.jpg)
+
+We have a number of different types of Suzani in our collection so have a browse on our website [https://samarkanddesign.com/collections/home-furnishings](https://samarkanddesign.com/collections/home-furnishings "https://samarkanddesign.com/collections/home-furnishings")
