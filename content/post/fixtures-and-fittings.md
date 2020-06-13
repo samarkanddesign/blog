@@ -1,7 +1,7 @@
 +++
 author = ""
 comments = false
-date = "2018-08-06T17:43:05+00:00"
+date = 2018-08-06T17:43:05Z
 description = ""
 image = ""
 share = true
@@ -20,7 +20,7 @@ Here we are going to try and unravel the mystery of lampshade fittings. It’s a
 
 All our larger lampshades – 40cm or more come with a duplex fitting which is an 11cm ring near the top of the lampshade to be used with either a shade carrier for a table lamp or a spider fitting if it is to be hung from the ceiling.
 
-The reason we do this is to allow flexibility depending on how high you want your shade to sit on your lamp.  It also makes it easier to clean your lampshade as it’s easily removed from the base. [We supply shade carriers](https://samarkanddesign.com/shop/lampshade-carriers "Lampshade carriers in the Samarkand shop") in a variety of sizes from 3" to 10"
+The reason we do this is to allow flexibility depending on how high you want your shade to sit on your lamp.  It also makes it easier to clean your lampshade as it’s easily removed from the base. [We supply shade carriers](https://samarkanddesign.com/collections/accessories/products/lampshade-carrier "Lampshade carriers in the Samarkand shop") in a variety of sizes from 3" to 10"
 
 You can also attach a "Spider" fitting to the Duplex ring which will turn it into a ceiling or pendant shade (see below). We do also supply these but it’s best if you contact us to discuss which type you want.
 
